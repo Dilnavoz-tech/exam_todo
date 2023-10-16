@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f9db398-c40e-4400-8460-5ffc1e2e2684" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WpWvKmdtosEXLaqSUUWhuNmrub" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kali/PycharmProjects/exam_6/root&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.django.DjangoModulesConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="exam_6" type="Python.DjangoServer" factoryName="Django server">
+      <module name="exam_6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="$PROJECT_DIR$/root" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f9db398-c40e-4400-8460-5ffc1e2e2684" name="Changes" comment="" />
+      <created>1697430230445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697430230445</updated>
+      <workItem from="1697430232281" duration="211000" />
+      <workItem from="1697430484378" duration="356000" />
+      <workItem from="1697430900644" duration="132000" />
+      <workItem from="1697431093541" duration="196000" />
+      <workItem from="1697431316090" duration="173000" />
+      <workItem from="1697431686604" duration="154000" />
+      <workItem from="1697431885676" duration="1498000" />
+      <workItem from="1697435097023" duration="162000" />
+      <workItem from="1697435314815" duration="277000" />
+      <workItem from="1697435635734" duration="60000" />
+      <workItem from="1697435726899" duration="836000" />
+      <workItem from="1697436584385" duration="186000" />
+      <workItem from="1697436875790" duration="56000" />
+      <workItem from="1697436964188" duration="670000" />
+      <workItem from="1697437673541" duration="114000" />
+      <workItem from="1697437849315" duration="730000" />
+      <workItem from="1697438627140" duration="94000" />
+      <workItem from="1697438771275" duration="26000" />
+      <workItem from="1697438861326" duration="35000" />
+      <workItem from="1697438931229" duration="189000" />
+      <workItem from="1697439152612" duration="293000" />
+      <workItem from="1697439471255" duration="49000" />
+      <workItem from="1697439534231" duration="14000" />
+      <workItem from="1697439577352" duration="18000" />
+      <workItem from="1697439648948" duration="127000" />
+      <workItem from="1697439798521" duration="136000" />
+      <workItem from="1697439967854" duration="34000" />
+      <workItem from="1697440034904" duration="37000" />
+      <workItem from="1697440112139" duration="69000" />
+      <workItem from="1697440203079" duration="47000" />
+      <workItem from="1697440268369" duration="65000" />
+      <workItem from="1697440407649" duration="41000" />
+      <workItem from="1697440507067" duration="140000" />
+      <workItem from="1697440683469" duration="25000" />
+      <workItem from="1697440724587" duration="1237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
